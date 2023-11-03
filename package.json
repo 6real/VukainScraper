@@ -1,0 +1,15 @@
+{
+  "name": "vulkain-scraper",
+  "version": "1.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^19.11.1"
+  }
+}
